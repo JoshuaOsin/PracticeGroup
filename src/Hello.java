@@ -12,6 +12,9 @@ public class Hello {
 
         System.out.println("master");
 
+
+        System.out.println("Joshua step1");
+
         System.out.println("Master Step1");
     }
 }
