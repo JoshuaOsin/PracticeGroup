@@ -5,5 +5,8 @@ public class Hello2 {
         System.out.println("Hello Cydeo");
 
         System.out.println("Local changes");
+        
+        System.out.println("Remote changes");
+
     }
 }
