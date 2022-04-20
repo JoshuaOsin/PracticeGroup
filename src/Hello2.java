@@ -8,5 +8,7 @@ public class Hello2 {
         
         System.out.println("Remote changes");
 
+        System.out.println("local change2");
+
     }
 }
